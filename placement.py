@@ -1,3 +1,4 @@
+#! /usr/bin/python2
 ## Copyright (c) 2013, Satvik Chauhan
 ##
 ## All rights reserved.
@@ -5,7 +6,7 @@
 ## This software is distributed under the terms and conditions of the
 ## BSD3 license. See the accompanying file LICENSE for exact terms and
 ## condition.
- 
+
 
 import urllib, urllib2, cookielib, re, pickle, itertools
 from lxml import etree
